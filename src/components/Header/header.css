@@ -1,0 +1,15 @@
+.header-bar {
+    position: sticky;
+    width: 100%;
+    top: 0px;
+    z-index: 1000;
+    height: 80px;
+    background: #442445 !important;
+    font-size: 32px;
+    font-weight: 550;
+    padding-top: 10px;
+    display:flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}

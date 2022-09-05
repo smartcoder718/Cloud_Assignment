@@ -1,0 +1,25 @@
+.submit-div {
+    position: fixed;
+    bottom: 0px;
+    background: white;
+    height: 90px;
+    text-align: center;
+    width: 576px;
+    padding: 15px
+}
+
+
+@media only screen and (max-width: 576px) {
+    .submit-div {
+        width: 100%;
+    }
+}
+
+.border {
+    border: 3px solid #442445 !important;
+}
+
+.Toastify__toast-container--top-right {
+    top: 90px !important;
+    right: auto;
+}
